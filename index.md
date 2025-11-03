@@ -3,21 +3,21 @@
 
 ---
 
-##  Índice  
-1. [Propósito](#-propósito)  
-2. [Antes da pesquisa: Planejamento e desenho](#-antes-da-pesquisa-planejamento-e-desenho)  
-3. [Durante a pesquisa: Coleta e análise](#-durante-a-pesquisa-coleta-e-análise)  
-4. [Depois da pesquisa: Divulgação, impacto e retorno](#-depois-da-pesquisa-divulgação-impacto-e-retorno)  
-5. [Referências e inspiração](#-referências-e-inspiração)  
+## Índice
+1. [Propósito](#proposito)  
+2. [Antes da pesquisa: Planejamento e desenho](#antes-da-pesquisa-planejamento-e-desenho)  
+3. [Durante a pesquisa: Coleta e análise](#durante-a-pesquisa-coleta-e-analise)  
+4. [Depois da pesquisa: Divulgação, impacto e retorno](#depois-da-pesquisa-divulgacao-impacto-e-retorno)  
+5. [Referências e inspiração](#referencias-e-inspiracao)  
 
 ---
 
-## Propósito  
+## Propósito {#proposito}  
 Garantir que as práticas de pesquisa do **NECSU** sejam **transparentes, éticas, diversas, colaborativas e reprodutíveis** — promovendo ciência aberta e socialmente responsável.  
 
 ---
 
-## 1. Antes da pesquisa: Planejamento e desenho  
+## 1. Antes da pesquisa: Planejamento e desenho {#antes-da-pesquisa-planejamento-e-desenho}  
 **Objetivo:** garantir que o projeto seja ético, inclusivo e transparente desde a concepção.  
 
 ### Boas práticas  
@@ -46,7 +46,7 @@ Garantir que as práticas de pesquisa do **NECSU** sejam **transparentes, ética
 
 ---
 
-## 2. Durante a pesquisa: Coleta e análise  
+## 2. Durante a pesquisa: Coleta e análise {#durante-a-pesquisa-coleta-e-analise}  
 **Objetivo:** assegurar qualidade, reprodutibilidade e cuidado com os participantes.  
 
 ### Boas práticas  
@@ -71,7 +71,7 @@ Garantir que as práticas de pesquisa do **NECSU** sejam **transparentes, ética
 
 ---
 
-## 3. Depois da pesquisa: Divulgação, impacto e retorno  
+## 3. Depois da pesquisa: Divulgação, impacto e retorno {#depois-da-pesquisa-divulgacao-impacto-e-retorno}  
 **Objetivo:** promover ciência aberta, acessível e socialmente relevante.  
 
 ### Boas práticas  
@@ -99,7 +99,7 @@ Garantir que as práticas de pesquisa do **NECSU** sejam **transparentes, ética
 
 ---
 
-## Referências e inspiração  
+## Referências e inspiração {#referencias-e-inspiracao}  
 Baseado no **[Guia de Boas Práticas em Ciência Aberta e Reprodutível – Instituto Serrapilheira (2020)](https://serrapilheira.org/)** e nas práticas do **NECSU (Núcleo de Estudos em Cognição Social)**.  
 
 ---
