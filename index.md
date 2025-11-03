@@ -8,7 +8,8 @@
 2. [Antes da pesquisa: Planejamento e desenho](#antes-da-pesquisa-planejamento-e-desenho)  
 3. [Durante a pesquisa: Coleta e análise](#durante-a-pesquisa-coleta-e-analise)  
 4. [Depois da pesquisa: Divulgação, impacto e retorno](#depois-da-pesquisa-divulgacao-impacto-e-retorno)  
-5. [Referências e inspiração](#referencias-e-inspiracao)  
+5. [Referências e inspiração](#referencias-e-inspiracao)
+6. 6. [Colaboradores](#colaboradores)  
 
 ---
 
@@ -103,5 +104,23 @@ Garantir que as práticas de pesquisa do **NECSU** sejam **transparentes, ética
 Baseado no **[Guia de Boas Práticas em Ciência Aberta e Reprodutível – Instituto Serrapilheira (2020)](https://serrapilheira.org/)** e nas práticas do **NECSU (Núcleo de Estudos em Cognição Social)**.  
 
 ---
+
+---
+
+## Colaboradores  {#colaboradores}
+
+O **Manual de Boas Práticas do NECSU** foi desenvolvido com a contribuição de pesquisadores e profissionais comprometidos com ciência aberta, diversidade e reprodutibilidade.
+
+**Colaboradores:**  
+- Ana Carolina Soares Marinho ([ORCID](https://orcid.org/0000-0002-8456-4545))  
+- Joana D' arc Oliveira de Mendonça ([ORCID]([https://orcid.org/0000-0001-6406-4116)) 
+- Claudia Berlim de Mello ([ORCID]([https://orcid.org/0000-0003-3953-3966)) 
+- Luis Felipe Rodrigues
+- Susanny Cristini
+- Aline Santos 
+
+
+Agradecemos a todos que forneceram feedback, revisões e inspiração, tornando este manual mais inclusivo e útil para a comunidade científica.
+
 
 >  **Sugestão:** este manual pode ser atualizado coletivamente via *pull requests*, garantindo que o NECSU cresça de forma colaborativa e transparente.
