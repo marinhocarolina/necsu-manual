@@ -1,7 +1,7 @@
 title: "Manual de Boas Práticas do NECSU"
 description: "Guia de ciência aberta, diversidade e reprodutibilidade — Núcleo de Estudos em Cognição Social."
 theme: jekyll-theme-minimal
-logo: https://drive.google.com/file/d/1isqyZ7N32ktCkvluj7xLUv3I9d8LrwnT/view?usp=sharing
+logo: /logo.jpg
 show_downloads: false
 markdown: kramdown
 plugins:
