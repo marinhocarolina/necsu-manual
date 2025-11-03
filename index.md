@@ -9,7 +9,7 @@
 3. [Durante a pesquisa: Coleta e análise](#durante-a-pesquisa-coleta-e-analise)  
 4. [Depois da pesquisa: Divulgação, impacto e retorno](#depois-da-pesquisa-divulgacao-impacto-e-retorno)  
 5. [Referências e inspiração](#referencias-e-inspiracao)
-6. 6. [Colaboradores](#colaboradores)  
+6. [Colaboradores](#colaboradores)  
 
 ---
 
@@ -111,13 +111,13 @@ Baseado no **[Guia de Boas Práticas em Ciência Aberta e Reprodutível – Inst
 
 O **Manual de Boas Práticas do NECSU** foi desenvolvido com a contribuição de pesquisadores e profissionais comprometidos com ciência aberta, diversidade e reprodutibilidade.
 
-**Colaboradores:**  
-- Ana Carolina Soares Marinho ([ORCID](https://orcid.org/0000-0002-8456-4545))  
-- Joana D' arc Oliveira de Mendonça ([ORCID]([https://orcid.org/0000-0001-6406-4116)) 
-- Claudia Berlim de Mello ([ORCID]([https://orcid.org/0000-0003-3953-3966)) 
-- Luis Felipe Rodrigues
-- Susanny Cristini
-- Aline Santos 
+## Colaboradores
+- [Ana Carolina Soares Marinho](https://orcid.org/0000-0002-8456-4545)  
+- [Joana D'arc Oliveira de Mendonça](https://orcid.org/0000-0001-6406-4116)  
+- [Claudia Berlim de Mello](https://orcid.org/0000-0003-3953-3966)  
+- Luis Felipe Rodrigues  
+- Susanny Cristini  
+- Aline Santos  
 
 
 Agradecemos a todos que forneceram feedback, revisões e inspiração, tornando este manual mais inclusivo e útil para a comunidade científica.
